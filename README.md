@@ -16,5 +16,5 @@ Scale:  300 <br> <br>
 ![julia-plt](./julia-plt.png)
 
 GIF:
-![Julia_set](./Julia_sett.gif)
+![Julia_set](./Julia_set.gif)
 
