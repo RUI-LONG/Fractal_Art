@@ -15,6 +15,6 @@ Z(t+1)=Z(t)∗Z(t)+cJ,
 Scale:  300 <br> <br>
 ![julia-plt](./julia-plt.png)
 
-GIF:
+GIF: <br> <br>
 ![Julia_set](./Julia_set.gif)
 
