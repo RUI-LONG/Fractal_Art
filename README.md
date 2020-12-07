@@ -12,11 +12,11 @@ Z(t+1)=Z(t)∗Z(t)+cJ,
 
 ##  Visualization
 
-Scale:  300
+Scale:  300 <br> <br>
 ![a](./julia-300.png)
 
-Scale:  900 
+Scale:  900  <br> <br>
 ![a](./julia-900.png)
 
-Scale:  1296
+Scale:  1296 <br> <br>
 ![a](./julia-1296.png)
