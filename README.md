@@ -18,3 +18,6 @@ Scale:  300 <br> <br>
 GIF: <br> <br>
 ![Julia_set](./Julia_set.gif)
 
+## Sierpinski triangle
+
+#### TODO
