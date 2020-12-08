@@ -1,4 +1,4 @@
-# The_Art_of_Maths
+# Fractal_Art
 
 ## Julia Set 
 
