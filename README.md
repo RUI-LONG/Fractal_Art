@@ -7,7 +7,9 @@ Then you'll get a different Julia set for each value of c. ( where there is only
 
 ## Computation
 J  is the unit matrix with the same dimensions as Z. <br>
+
 c = -0.143+0.65i <br>
+
 Z(t+1)=Z(t)∗Z(t)+cJ,
 
 ##  Visualization
